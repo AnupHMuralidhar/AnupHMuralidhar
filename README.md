@@ -21,17 +21,42 @@
 ---
 
 <p align="center">
-  <img height="155"
-       src="https://github-readme-stats.vercel.app/api?username=AnupHMuralidhar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="155"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupHMuralidhar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=AnupHMuralidhar
+       &show_icons=true
+       &hide_border=true
+       &count_private=true
+       &include_all_commits=true
+       &cache_seconds=86400
+       &theme=transparent
+       &title_color=9D4EDD
+       &icon_color=00E5FF
+       &text_color=C9D1D9
+       &bg_color=00000000" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupHMuralidhar
+       &layout=compact
+       &hide_border=true
+       &cache_seconds=86400
+       &theme=transparent
+       &title_color=9D4EDD
+       &text_color=C9D1D9
+       &bg_color=00000000" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=AnupHMuralidhar&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=AnupHMuralidhar
+    &theme=onedark
+    &no-frame=true
+    &no-bg=true
+    &row=1
+    &column=6
+    &margin-w=10
+    &margin-h=10"
   />
 </p>
+
 
 ---
 
