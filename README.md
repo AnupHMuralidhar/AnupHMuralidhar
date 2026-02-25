@@ -6,17 +6,24 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/anup-h-muralidhar/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat&logo=linkedin&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
-</a>
+  <a href="https://www.linkedin.com/in/anup-h-muralidhar/">
+    <img src="assets/icons/linkedin-cyan.svg" height="18" style="vertical-align:middle;" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat&labelColor=0B0F17&color=9D4EDD" style="vertical-align:middle;" />
+  </a>
+
+  &nbsp;&nbsp;
 
   <a href="mailto:vaasthu08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0F17?style=flat&logo=gmail&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-0B0F17?style=flat&logo=gmail&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" style="vertical-align:middle;" />
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://drive.google.com/file/d/1ZSYMTX2mY0xFIRTjvyHliw2GJAIzpxQR/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-0B0F17?style=flat&logo=googledrive&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-0B0F17?style=flat&logo=googledrive&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" style="vertical-align:middle;" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0B0F17?style=for-the-badge&labelColor=0B0F17&color=00E5FF" />
