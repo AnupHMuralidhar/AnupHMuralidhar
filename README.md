@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anup-h-muralidhar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat&logo=linkedin&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
-  </a>
+ <a href="https://www.linkedin.com/in/anup-h-muralidhar/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat&logo=linkedin&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
+</a>
+
   <a href="mailto:vaasthu08@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B0F17?style=flat&logo=gmail&logoColor=00E5FF&labelColor=0B0F17&color=9D4EDD" />
   </a>
