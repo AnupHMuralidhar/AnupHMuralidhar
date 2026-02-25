@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0B0F17?style=for-the-badge&labelColor=0B0F17&color=00E5FF" />
   <img src="https://img.shields.io/badge/ML%2FRL-0B0F17?style=for-the-badge&labelColor=0B0F17&color=9D4EDD" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-0B0F17?style=for-the-badge&labelColor=0B0F17&color=00E5FF" />
+  <img src="https://img.shields.io/badge/Tool%20Building-0B0F17?style=for-the-badge&labelColor=0B0F17&color=00E5FF" />
   <img src="https://img.shields.io/badge/Security%20Automation-0B0F17?style=for-the-badge&labelColor=0B0F17&color=9D4EDD" />
 </p>
 
