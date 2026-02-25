@@ -1,7 +1,7 @@
 <!-- Futuristic title as SVG image (reliable way to change font look in README) -->
 <p align="center">
   <img alt="Anup H Muralidhar"
-       src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=800&lines=Anup+H+Muralidhar;AI-powered+Cybersecurity+%E2%80%A2+ML%2FRL+%E2%80%A2+Automation"
+       src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=800&lines=Anup+H+Muralidhar;AI-powered+Cybersecurity+%E2%80%A2+ML%2FRL"
   />
 </p>
 
