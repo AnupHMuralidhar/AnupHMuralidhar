@@ -24,6 +24,6 @@
 Python • TensorFlow/PyTorch • JS • Git • XGBoost/SHAP • CV • Security Monitoring
 
 ## Links
-- LinkedIn: [<PASTE>](https://www.linkedin.com/in/anup-h-muralidhar/)
+- LinkedIn: https://www.linkedin.com/in/anup-h-muralidhar/
 - Email: vaasthu08@gmail.com
-- Resume: [<PASTE GOOGLE DRIVE / WEBSITE LINK>](https://drive.google.com/file/d/1ZSYMTX2mY0xFlRTjvyHliw2GJAIzpxQR/view?usp=drive_link)
+- Resume: https://drive.google.com/file/d/1ZSYMTX2mY0xFlRTjvyHliw2GJAIzpxQR/view?usp=drive_link
